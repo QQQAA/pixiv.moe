@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "heroku部署",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "pixiv.moe",
+  "scripts": {
+  },
+  "stack": "container"
+}
